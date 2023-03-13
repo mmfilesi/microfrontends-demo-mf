@@ -1,0 +1,17 @@
+:host {
+  .monkeys-app-container {
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px dashed rgb(124, 39, 0);
+    background-color: #fcfcfc;
+  }
+
+  .monkeys-app-title {
+    color: rgb(124, 39, 0);
+  }
+
+  .monkeys-app-number {
+    margin: 1rem 0;
+    font-weight: bold;
+  }
+}

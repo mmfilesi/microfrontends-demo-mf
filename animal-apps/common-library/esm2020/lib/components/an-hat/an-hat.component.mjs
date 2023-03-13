@@ -1,0 +1,11 @@
+import { Component } from '@angular/core';
+import * as i0 from "@angular/core";
+export class AnHatComponent {
+}
+AnHatComponent.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "15.2.2", ngImport: i0, type: AnHatComponent, deps: [], target: i0.ɵɵFactoryTarget.Component });
+AnHatComponent.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "15.2.2", type: AnHatComponent, selector: "an-hat", ngImport: i0, template: "<div>\r\n  <p>an-hat component</p>\r\n  <img\r\n    alt=\"hat\"\r\n    role=\"presentation\"\r\n    src=\"/assets/images/hat.png\"\r\n  />\r\n</div>\r\n", styles: [""] });
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "15.2.2", ngImport: i0, type: AnHatComponent, decorators: [{
+            type: Component,
+            args: [{ selector: 'an-hat', template: "<div>\r\n  <p>an-hat component</p>\r\n  <img\r\n    alt=\"hat\"\r\n    role=\"presentation\"\r\n    src=\"/assets/images/hat.png\"\r\n  />\r\n</div>\r\n" }]
+        }] });
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYW4taGF0LmNvbXBvbmVudC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uLy4uL3Byb2plY3RzL2NvbW1vbi1saWJyYXJ5L3NyYy9saWIvY29tcG9uZW50cy9hbi1oYXQvYW4taGF0LmNvbXBvbmVudC50cyIsIi4uLy4uLy4uLy4uLy4uLy4uL3Byb2plY3RzL2NvbW1vbi1saWJyYXJ5L3NyYy9saWIvY29tcG9uZW50cy9hbi1oYXQvYW4taGF0LmNvbXBvbmVudC5odG1sIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLE9BQU8sRUFBRSxTQUFTLEVBQUUsTUFBTSxlQUFlLENBQUM7O0FBTzFDLE1BQU0sT0FBTyxjQUFjOzsyR0FBZCxjQUFjOytGQUFkLGNBQWMsOENDUDNCLDBKQVFBOzJGRERhLGNBQWM7a0JBTDFCLFNBQVM7K0JBQ0UsUUFBUSIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IENvbXBvbmVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xyXG5cclxuQENvbXBvbmVudCh7XHJcbiAgc2VsZWN0b3I6ICdhbi1oYXQnLFxyXG4gIHRlbXBsYXRlVXJsOiAnLi9hbi1oYXQuY29tcG9uZW50Lmh0bWwnLFxyXG4gIHN0eWxlVXJsczogWycuL2FuLWhhdC5jb21wb25lbnQuc2NzcyddXHJcbn0pXHJcbmV4cG9ydCBjbGFzcyBBbkhhdENvbXBvbmVudCB7XHJcblxyXG59XHJcbiIsIjxkaXY+XHJcbiAgPHA+YW4taGF0IGNvbXBvbmVudDwvcD5cclxuICA8aW1nXHJcbiAgICBhbHQ9XCJoYXRcIlxyXG4gICAgcm9sZT1cInByZXNlbnRhdGlvblwiXHJcbiAgICBzcmM9XCIvYXNzZXRzL2ltYWdlcy9oYXQucG5nXCJcclxuICAvPlxyXG48L2Rpdj5cclxuIl19

@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Monkeys</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+  <!-- just for single dev -->
+  <monkey-app id="monkey-app-dev"></monkey-app>
+
+  <script>
+    const myMicrofrontend = document.querySelector('#monkey-app-dev');
+
+    myMicrofrontend.monkeysNumber = 4;
+
+    myMicrofrontend.addEventListener('eat', (event)=> {
+      console.log('event from microfrontend', event);
+    });
+  </script>
+
+</body>
+</html>

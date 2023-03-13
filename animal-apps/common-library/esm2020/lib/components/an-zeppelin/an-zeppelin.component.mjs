@@ -1,0 +1,11 @@
+import { Component } from '@angular/core';
+import * as i0 from "@angular/core";
+export class AnZeppelinComponent {
+}
+AnZeppelinComponent.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "15.2.2", ngImport: i0, type: AnZeppelinComponent, deps: [], target: i0.ɵɵFactoryTarget.Component });
+AnZeppelinComponent.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "15.2.2", type: AnZeppelinComponent, selector: "an-zeppelin", ngImport: i0, template: "<div>\r\n  <p>an-zeppelin component</p>\r\n  <img\r\n    alt=\"zeppelin\"\r\n    role=\"presentation\"\r\n    src=\"/assets/images/zeppelin.png\"\r\n  />\r\n</div>\r\n", styles: [""] });
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "15.2.2", ngImport: i0, type: AnZeppelinComponent, decorators: [{
+            type: Component,
+            args: [{ selector: 'an-zeppelin', template: "<div>\r\n  <p>an-zeppelin component</p>\r\n  <img\r\n    alt=\"zeppelin\"\r\n    role=\"presentation\"\r\n    src=\"/assets/images/zeppelin.png\"\r\n  />\r\n</div>\r\n" }]
+        }] });
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYW4temVwcGVsaW4uY29tcG9uZW50LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vLi4vLi4vcHJvamVjdHMvY29tbW9uLWxpYnJhcnkvc3JjL2xpYi9jb21wb25lbnRzL2FuLXplcHBlbGluL2FuLXplcHBlbGluLmNvbXBvbmVudC50cyIsIi4uLy4uLy4uLy4uLy4uLy4uL3Byb2plY3RzL2NvbW1vbi1saWJyYXJ5L3NyYy9saWIvY29tcG9uZW50cy9hbi16ZXBwZWxpbi9hbi16ZXBwZWxpbi5jb21wb25lbnQuaHRtbCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLEVBQUUsU0FBUyxFQUFFLE1BQU0sZUFBZSxDQUFDOztBQU8xQyxNQUFNLE9BQU8sbUJBQW1COztnSEFBbkIsbUJBQW1CO29HQUFuQixtQkFBbUIsbURDUGhDLHlLQVFBOzJGRERhLG1CQUFtQjtrQkFML0IsU0FBUzsrQkFDRSxhQUFhIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgQ29tcG9uZW50IH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XHJcblxyXG5AQ29tcG9uZW50KHtcclxuICBzZWxlY3RvcjogJ2FuLXplcHBlbGluJyxcclxuICB0ZW1wbGF0ZVVybDogJy4vYW4temVwcGVsaW4uY29tcG9uZW50Lmh0bWwnLFxyXG4gIHN0eWxlVXJsczogWycuL2FuLXplcHBlbGluLmNvbXBvbmVudC5zY3NzJ11cclxufSlcclxuZXhwb3J0IGNsYXNzIEFuWmVwcGVsaW5Db21wb25lbnQge1xyXG5cclxufVxyXG4iLCI8ZGl2PlxyXG4gIDxwPmFuLXplcHBlbGluIGNvbXBvbmVudDwvcD5cclxuICA8aW1nXHJcbiAgICBhbHQ9XCJ6ZXBwZWxpblwiXHJcbiAgICByb2xlPVwicHJlc2VudGF0aW9uXCJcclxuICAgIHNyYz1cIi9hc3NldHMvaW1hZ2VzL3plcHBlbGluLnBuZ1wiXHJcbiAgLz5cclxuPC9kaXY+XHJcbiJdfQ==

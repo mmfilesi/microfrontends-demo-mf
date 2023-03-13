@@ -1,0 +1,24 @@
+<!-- clase propia -->
+<article class="monkeys-app-container app-container">
+  <!-- clase general -->
+  <header class="app-header">
+    <img src="assets/images/monkeys-01.png" class="app-header__logo">
+    <h3 class="app-header__title monkeys-app-title">Monkey app</h3>
+  </header>
+
+  <div class="monkeys-app-number" *ngIf="!monkeysNumber">
+    No monkeys
+  </div>
+
+  <div class="monkeys-app-number" *ngIf="monkeysNumber">
+    Monkeys: {{monkeysNumber}}
+  </div>
+
+  <div class="app-actions">
+    <button (click)="eatBanana()">eat banana</button>
+  </div>
+
+  <p>Example library component:</p>
+  <an-hat></an-hat>
+
+</article>
